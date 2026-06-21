@@ -50,7 +50,9 @@ SpotifyClone/
 
 ## Screenshots
 
-Add screenshots of your project here.
+<img width="1920" height="1080" alt="Screenshot2" src="https://github.com/user-attachments/assets/74581840-6737-4e42-9042-2d2d641738b9" />
+<img width="1920" height="1080" alt="Screenshot1" src="https://github.com/user-attachments/assets/6feb97e0-44b7-45ba-a5af-8f763c5bcbf2" />
+
 
 ## Learning Outcomes
 
